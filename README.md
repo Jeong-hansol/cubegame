@@ -4,9 +4,9 @@
 
 
 키 조작법
-X축 이동 : 키 Q,W,E,R,T,Y
-Y축 이동 : 키 A,S,D,F,G,H
-Z축 이동 : 키 Z,X,C,V,B,N
+- X축 이동 : 키 Q,W,E,R,T,Y
+- Y축 이동 : 키 A,S,D,F,G,H
+- Z축 이동 : 키 Z,X,C,V,B,N
 
 기능
 - SCRAMBLE : 큐브 셔플
