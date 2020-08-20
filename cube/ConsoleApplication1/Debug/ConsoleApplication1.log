@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  cube_game.cpp
+c:\users\samsung\desktop\cube\consoleapplication1\cube_game.cpp(283): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\samsung\desktop\cube\consoleapplication1\cube_game.cpp(398): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\samsung\desktop\cube\consoleapplication1\cube_game.cpp(455): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\samsung\desktop\cube\consoleapplication1\cube_game.cpp(456): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\samsung\desktop\cube\consoleapplication1\cube_game.cpp(459): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\samsung\desktop\cube\consoleapplication1\cube_game.cpp(474): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\samsung\desktop\cube\consoleapplication1\cube_game.cpp(476): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\samsung\desktop\cube\consoleapplication1\cube_game.cpp(490): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\samsung\desktop\cube\consoleapplication1\cube_game.cpp(732): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  ConsoleApplication1.vcxproj -> C:\Users\samsung\Desktop\cube\Debug\ConsoleApplication1.exe
